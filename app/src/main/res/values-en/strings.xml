@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EletricCarApp</string>
+    <string name="titulo">Eletric Car</string>
+    <string name="carros">Cars</string>
+    <string name="favoritos">Favorites</string>
+    <string name="preco">Price</string>
+    <string name="bateria">Battery</string>
+    <string name="potencia">Power</string>
+    <string name="recarga">CHarging</string>
+    <string name="cavalos_potencia">" hp"</string>
+</resources>
