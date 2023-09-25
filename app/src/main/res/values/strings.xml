@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">EletricCarApp</string>
-    <string name="titulo">Carro Elétrico</string>
+    <string name="titulo_main">Carro Elétrico</string>
     <string name="carros">Carros</string>
     <string name="favoritos">Favoritos</string>
     <string name="preco">Preço</string>
@@ -8,4 +8,8 @@
     <string name="potencia">Potência</string>
     <string name="recarga">Recarga</string>
     <string name="cavalos_potencia">" cv"</string>
+    <string name="preco_kwh">Preço kWh</string>
+    <string name="km_percorrido">Km Percorrido</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="titulo_calcular_autonomia">Calcular Autonomia</string>
 </resources>
